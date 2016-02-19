@@ -1,5 +1,5 @@
 {
-    "name": "az/module-test",
+    "name": "az/module-test-sobol",
     "description": "AZ-TEST",
     "require": {
         "php": "~5.5.0|~5.6.0|~7.0.0",
